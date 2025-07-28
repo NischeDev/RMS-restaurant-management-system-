@@ -1,0 +1,7 @@
+1,Pizza,1,11.0
+2,Pizza,2,22.0
+3,Pizza,5,55.0
+4,chicken,1,120.0
+5,butter chicken,2,600.0
+6,butter chicken,1,450.0
+7,dosa,5,125.0
